@@ -39,8 +39,6 @@ Engineering and product leader with 18+ years of software-development experience
 - Used GitHub Copilot, OpenAI, Claude, and Gemini to accelerate implementation, investigation, documentation, and engineering workflows while retaining engineering review and ownership.
 - Continued operating with a strong focus on data correctness, maintainability, and pragmatic delivery.
 
-> **Before submission:** replace `[Employer name]` and verify these dates against the overlapping Wingback entry below.
-
 ### Product Owner — Wingback, Remote
 **February 2021–Present**
 
@@ -49,7 +47,7 @@ Engineering and product leader with 18+ years of software-development experience
 - Participated directly in database design and AWS deployment and performed code reviews.
 - Balanced new product work with technical constraints and engineering priorities in a remote startup environment.
 
-### Director of Engineering / Team Lead — BS/2, Vilnius, Lithuania
+### Director of Engineering — BS/2, Vilnius, Lithuania
 **October 2020–February 2021**
 
 - Restructured the IT department and introduced a more modern engineering operating model.
